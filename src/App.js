@@ -52,6 +52,7 @@ export default function App() {
 
         <h2>{mensagem}</h2>
       </div>
+      <footer class="footer">Hugolino B. G. 2022. Todos os direitos reservados.</footer>
     </div>
   );
 }
