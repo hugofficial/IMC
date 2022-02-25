@@ -23,9 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 public/favicon.ico
-public/logo192.png
-public/logo512.png
 src/App.test.js
 src/logo.svg
 src/reportWebViatls.js
 src/setupTest.js
+public/logo192.png
+public/logo512.png
