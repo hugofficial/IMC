@@ -3,11 +3,11 @@
 <br/>
 
 <div align="center">
-<a href="https://youtu.be/L2ySudygT8Y" title="App Gerador de Senha - React Native" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_2.png" alt="App Gerador de Senha - React Native" width=45% height=45% /></a>
+<a href="https://github.com/hugofficial/IMC/blob/main/image_2.png" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_2.png" alt="App Gerador de Senha - React Native" /></a>
 </div>
 
 <div align="center">
-<a href="https://youtu.be/L2ySudygT8Y" title="App Gerador de Senha - React Native" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_1.png" alt="App Gerador de Senha - React Native" width=45% height=45% /></a>
+<a href="https://github.com/hugofficial/IMC/blob/main/image_1.png" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_1.png" alt="App Gerador de Senha - React Native" /></a>
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
