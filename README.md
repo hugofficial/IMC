@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://github.com/hugofficial/IMC/blob/main/image_2.png" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_2.png" alt="App Gerador de Senha - React Native" /></a>
 </div>
-
+<br/>
 <div align="center">
 <a href="https://github.com/hugofficial/IMC/blob/main/image_1.png" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_1.png" alt="App Gerador de Senha - React Native" /></a>
 </div>
