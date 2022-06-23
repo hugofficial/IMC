@@ -3,11 +3,11 @@
 <br/>
 
 <div align="center">
-<a href="https://imc-iota.vercel.app" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_2.png" alt="App Gerador de Senha - React Native" /></a>
+<a href="https://imc-iota.vercel.app" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_2.png" alt="Calculadora de IMC - ReactJS" /></a>
 </div>
 <br/>
 <div align="center">
-<a href="https://imc-iota.vercel.app" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_1.png" alt="App Gerador de Senha - React Native" /></a>
+<a href="https://imc-iota.vercel.app" title="Calculadora de IMC - ReactJS" target="_blank" ><img src="https://github.com/hugofficial/IMC/blob/main/image_1.png" alt="Calculadora de IMC - ReactJS" /></a>
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
